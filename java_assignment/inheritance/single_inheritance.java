@@ -33,3 +33,14 @@ public class single_inheritance {
         obj2.totalproparty();
     }
 }
+/* TERMINAL:
+
+
+Assignment: Inheritence (Singel Inheritence)
+============================================
+Father >> Sone
+--------------------------------------------
+Father Cash amount: 50000
+Father Bank amount: 200000
+Total Money :250000
+ */
