@@ -1,4 +1,9 @@
+
+
 package java_assignment.inheritance;
+
+
+
 /**
  * Father
  */
@@ -33,7 +38,9 @@ public class single_inheritance {
         obj2.totalproparty();
     }
 }
-/* TERMINAL:
+
+/* 
+TERMINAL:
 
 
 Assignment: Inheritence (Singel Inheritence)
